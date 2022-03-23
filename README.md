@@ -4,11 +4,11 @@
 
 Проект выполнен в R-studio (jupyter-notebook)
 
---- 
 ### Описание файлов:
-1. <a href="https://github.com/vladank99/Diploma/blob/main/Data_description.ipynb">Data_description</a>– файл с описанием структуры опросника и данных 
-2. <a href="https://github.com/vladank99/Diploma/blob/main/Main_analysis.ipynb">Main_analysis</a>– файл с кодом основного анализа
+1. <a href="https://github.com/vladank99/Diploma/blob/main/Data_description.ipynb">Data_description</a> – файл с описанием структуры опросника и данных 
+2. <a href="https://github.com/vladank99/Diploma/blob/main/Main_analysis.ipynb">Main_analysis</a> – файл с кодом основного анализа
 
+--- 
 
 ### Общее описание проекта:
 - **Основная цель** – разработать шкалы, которые будут валидными и надежными для русскоязычной выборки
