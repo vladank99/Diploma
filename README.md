@@ -5,6 +5,11 @@
 Проект выполнен в R-studio (jupyter-notebook)
 
 --- 
+### Описание файлов:
+1. <a href="https://github.com/vladank99/Diploma/blob/main/Data_description.ipynb">Data_description</a>– файл с описанием структуры опросника и данных 
+2. <a href="https://github.com/vladank99/Diploma/blob/main/Main_analysis.ipynb">Main_analysis</a>– файл с кодом основного анализа
+
+
 ### Общее описание проекта:
 - **Основная цель** – разработать шкалы, которые будут валидными и надежными для русскоязычной выборки
 - По сути, адаптировались две шкалы, которые оценивают субъективный уровень веры в генетику и социума в рамках объяснения обыденных вещей
@@ -73,8 +78,3 @@
                
             4. Строгая инвариантность – можно ли сравнивать средние показатели у мужчин и женщин в рамках суммарного балла 2х моих шкал?
                Более сложная формулировка: равны ли факторные нагрузки, interecpt и вариации в ответах у мужчин и женщин?
-
-### Описание файлов:
-1. <a href="https://github.com/vladank99/Diploma/blob/main/Data_description.ipynb">Data_description</a>– файл с описанием структуры опросника и данных 
-2. <a href="https://github.com/vladank99/Diploma/blob/main/Main_analysis.ipynb">Main_analysis</a>– файл с кодом основного анализа
-
