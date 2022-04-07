@@ -1,7 +1,7 @@
 ### Проекты HSE
 Проекты, выполненные в рамках обучения в бакалавриате Психологии ВШЭ (R-studio)
 
--<a href="https://github.com/vladank99/HSE-projects/tree/main/Diploma_project"> **Diploma-project:** </a> дипломный проект, посвященный адаптации зарубежных методик   
-    Использовались: анализ надежности, CFA, MCFA, KMO & MVN тест, корреляционный анализ
+- <a href="https://github.com/vladank99/HSE-projects/tree/main/Diploma_project"> **Diploma-project:** </a> дипломный проект, посвященный адаптации зарубежных методик   
+        Использовались: анализ надежности, CFA, MCFA, KMO & MVN тест, корреляционный анализ
 
 - Остальные проекты будут дополнятся!
